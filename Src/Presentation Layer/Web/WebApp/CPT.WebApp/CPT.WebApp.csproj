@@ -1,0 +1,21 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Folder Include="Dto\Request\" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.IdentityModel" Version="7.0.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\..\..\..\Business Layer\Core\CPT.ApplicationCore\CPT.ApplicationCore.csproj" />
+    <ProjectReference Include="..\..\..\..\Data Layer\Persistence\CPT.Persistence\CPT.Persistence.csproj" />
+    <ProjectReference Include="..\..\..\..\Helper Layer\Helper\CPT.Helper\CPT.Helper.csproj" />
+  </ItemGroup>
+
+</Project>
