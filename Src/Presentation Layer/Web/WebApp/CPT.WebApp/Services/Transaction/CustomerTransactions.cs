@@ -49,7 +49,6 @@ namespace CPT.WebApp.Services.Transaction
                         }
                     };
                 }
-
                 return new TransactionSummaryBaseResponseDto
                 {
                     data = new TransactionSummaryResponseDto
