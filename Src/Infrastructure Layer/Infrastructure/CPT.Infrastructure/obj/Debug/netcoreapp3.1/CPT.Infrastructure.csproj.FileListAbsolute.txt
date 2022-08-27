@@ -1,0 +1,15 @@
+C:\Projects\Test\CustomerPaymentTransaction\CPT\Src\Infrastructure Layer\Infrastructure\CPT.Infrastructure\bin\Debug\netcoreapp3.1\CPT.Infrastructure.deps.json
+C:\Projects\Test\CustomerPaymentTransaction\CPT\Src\Infrastructure Layer\Infrastructure\CPT.Infrastructure\bin\Debug\netcoreapp3.1\CPT.Infrastructure.dll
+C:\Projects\Test\CustomerPaymentTransaction\CPT\Src\Infrastructure Layer\Infrastructure\CPT.Infrastructure\bin\Debug\netcoreapp3.1\CPT.Infrastructure.pdb
+C:\Projects\Test\CustomerPaymentTransaction\CPT\Src\Infrastructure Layer\Infrastructure\CPT.Infrastructure\bin\Debug\netcoreapp3.1\CPT.Helper.dll
+C:\Projects\Test\CustomerPaymentTransaction\CPT\Src\Infrastructure Layer\Infrastructure\CPT.Infrastructure\bin\Debug\netcoreapp3.1\CPT.Helper.pdb
+C:\Projects\Test\CustomerPaymentTransaction\CPT\Src\Infrastructure Layer\Infrastructure\CPT.Infrastructure\obj\Debug\netcoreapp3.1\CPT.Infrastructure.csproj.AssemblyReference.cache
+C:\Projects\Test\CustomerPaymentTransaction\CPT\Src\Infrastructure Layer\Infrastructure\CPT.Infrastructure\obj\Debug\netcoreapp3.1\CPT.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\Test\CustomerPaymentTransaction\CPT\Src\Infrastructure Layer\Infrastructure\CPT.Infrastructure\obj\Debug\netcoreapp3.1\CPT.Infrastructure.AssemblyInfoInputs.cache
+C:\Projects\Test\CustomerPaymentTransaction\CPT\Src\Infrastructure Layer\Infrastructure\CPT.Infrastructure\obj\Debug\netcoreapp3.1\CPT.Infrastructure.AssemblyInfo.cs
+C:\Projects\Test\CustomerPaymentTransaction\CPT\Src\Infrastructure Layer\Infrastructure\CPT.Infrastructure\obj\Debug\netcoreapp3.1\CPT.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Projects\Test\CustomerPaymentTransaction\CPT\Src\Infrastructure Layer\Infrastructure\CPT.Infrastructure\obj\Debug\netcoreapp3.1\CPT.Infrastructure.csproj.CopyComplete
+C:\Projects\Test\CustomerPaymentTransaction\CPT\Src\Infrastructure Layer\Infrastructure\CPT.Infrastructure\obj\Debug\netcoreapp3.1\CPT.Infrastructure.dll
+C:\Projects\Test\CustomerPaymentTransaction\CPT\Src\Infrastructure Layer\Infrastructure\CPT.Infrastructure\obj\Debug\netcoreapp3.1\CPT.Infrastructure.pdb
+C:\Projects\Test\CustomerPaymentTransaction\CPT\Src\Infrastructure Layer\Infrastructure\CPT.Infrastructure\bin\Debug\netcoreapp3.1\CPT.Domain.dll
+C:\Projects\Test\CustomerPaymentTransaction\CPT\Src\Infrastructure Layer\Infrastructure\CPT.Infrastructure\bin\Debug\netcoreapp3.1\CPT.Domain.pdb

@@ -1,0 +1,555 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Projects\\Test\\FBNTest\\CPT\\Src\\Presentation Layer\\API\\CPT.API\\CPT.API.csproj": {}
+  },
+  "projects": {
+    "C:\\Projects\\Test\\FBNTest\\CPT\\Src\\Business Layer\\Core\\CPT.ApplicationCore\\CPT.ApplicationCore.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Projects\\Test\\FBNTest\\CPT\\Src\\Business Layer\\Core\\CPT.ApplicationCore\\CPT.ApplicationCore.csproj",
+        "projectName": "CPT.ApplicationCore",
+        "projectPath": "C:\\Projects\\Test\\FBNTest\\CPT\\Src\\Business Layer\\Core\\CPT.ApplicationCore\\CPT.ApplicationCore.csproj",
+        "packagesPath": "C:\\Users\\festus.patrick\\.nuget\\packages\\",
+        "outputPath": "C:\\Projects\\Test\\FBNTest\\CPT\\Src\\Business Layer\\Core\\CPT.ApplicationCore\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\festus.patrick\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Users\\festus.patrick\\Documents\\Visual Studio 2019\\Telerik": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "C:\\Projects\\Test\\FBNTest\\CPT\\Src\\Data Layer\\Persistence\\CPT.Persistence\\CPT.Persistence.csproj": {
+                "projectPath": "C:\\Projects\\Test\\FBNTest\\CPT\\Src\\Data Layer\\Persistence\\CPT.Persistence\\CPT.Persistence.csproj"
+              },
+              "C:\\Projects\\Test\\FBNTest\\CPT\\Src\\Domain Layer\\Domain\\CPT.Domain\\CPT.Domain.csproj": {
+                "projectPath": "C:\\Projects\\Test\\FBNTest\\CPT\\Src\\Domain Layer\\Domain\\CPT.Domain\\CPT.Domain.csproj"
+              },
+              "C:\\Projects\\Test\\FBNTest\\CPT\\Src\\Helper Layer\\Helper\\CPT.Helper\\CPT.Helper.csproj": {
+                "projectPath": "C:\\Projects\\Test\\FBNTest\\CPT\\Src\\Helper Layer\\Helper\\CPT.Helper\\CPT.Helper.csproj"
+              },
+              "C:\\Projects\\Test\\FBNTest\\CPT\\Src\\Infrastructure Layer\\Infrastructure\\CPT.Infrastructure\\CPT.Infrastructure.csproj": {
+                "projectPath": "C:\\Projects\\Test\\FBNTest\\CPT\\Src\\Infrastructure Layer\\Infrastructure\\CPT.Infrastructure\\CPT.Infrastructure.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "AutoMapper.Extensions.Microsoft.DependencyInjection": {
+              "target": "Package",
+              "version": "[11.0.0, )"
+            },
+            "MediatR.Extensions.Microsoft.DependencyInjection": {
+              "target": "Package",
+              "version": "[10.0.1, )"
+            },
+            "SimpleSoft.Mediator": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.408\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Projects\\Test\\FBNTest\\CPT\\Src\\Data Layer\\Persistence\\CPT.Persistence\\CPT.Persistence.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Projects\\Test\\FBNTest\\CPT\\Src\\Data Layer\\Persistence\\CPT.Persistence\\CPT.Persistence.csproj",
+        "projectName": "CPT.Persistence",
+        "projectPath": "C:\\Projects\\Test\\FBNTest\\CPT\\Src\\Data Layer\\Persistence\\CPT.Persistence\\CPT.Persistence.csproj",
+        "packagesPath": "C:\\Users\\festus.patrick\\.nuget\\packages\\",
+        "outputPath": "C:\\Projects\\Test\\FBNTest\\CPT\\Src\\Data Layer\\Persistence\\CPT.Persistence\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\festus.patrick\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Users\\festus.patrick\\Documents\\Visual Studio 2019\\Telerik": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "C:\\Projects\\Test\\FBNTest\\CPT\\Src\\Domain Layer\\Domain\\CPT.Domain\\CPT.Domain.csproj": {
+                "projectPath": "C:\\Projects\\Test\\FBNTest\\CPT\\Src\\Domain Layer\\Domain\\CPT.Domain\\CPT.Domain.csproj"
+              },
+              "C:\\Projects\\Test\\FBNTest\\CPT\\Src\\Helper Layer\\Helper\\CPT.Helper\\CPT.Helper.csproj": {
+                "projectPath": "C:\\Projects\\Test\\FBNTest\\CPT\\Src\\Helper Layer\\Helper\\CPT.Helper\\CPT.Helper.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "AutoMapper.Extensions.Microsoft.DependencyInjection": {
+              "target": "Package",
+              "version": "[11.0.0, )"
+            },
+            "Microsoft.AspNetCore.Identity.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[5.0.17, )"
+            },
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[5.0.17, )"
+            },
+            "Microsoft.EntityFrameworkCore.Relational": {
+              "target": "Package",
+              "version": "[5.0.17, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[5.0.17, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[5.0.17, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.408\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Projects\\Test\\FBNTest\\CPT\\Src\\Domain Layer\\Domain\\CPT.Domain\\CPT.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Projects\\Test\\FBNTest\\CPT\\Src\\Domain Layer\\Domain\\CPT.Domain\\CPT.Domain.csproj",
+        "projectName": "CPT.Domain",
+        "projectPath": "C:\\Projects\\Test\\FBNTest\\CPT\\Src\\Domain Layer\\Domain\\CPT.Domain\\CPT.Domain.csproj",
+        "packagesPath": "C:\\Users\\festus.patrick\\.nuget\\packages\\",
+        "outputPath": "C:\\Projects\\Test\\FBNTest\\CPT\\Src\\Domain Layer\\Domain\\CPT.Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\festus.patrick\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Users\\festus.patrick\\Documents\\Visual Studio 2019\\Telerik": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "Microsoft.AspNetCore.Identity.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[5.0.17, )"
+            },
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[5.0.17, )"
+            },
+            "Microsoft.EntityFrameworkCore.Relational": {
+              "target": "Package",
+              "version": "[5.0.17, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[5.0.17, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[5.0.17, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.408\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Projects\\Test\\FBNTest\\CPT\\Src\\Helper Layer\\Helper\\CPT.Helper\\CPT.Helper.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Projects\\Test\\FBNTest\\CPT\\Src\\Helper Layer\\Helper\\CPT.Helper\\CPT.Helper.csproj",
+        "projectName": "CPT.Helper",
+        "projectPath": "C:\\Projects\\Test\\FBNTest\\CPT\\Src\\Helper Layer\\Helper\\CPT.Helper\\CPT.Helper.csproj",
+        "packagesPath": "C:\\Users\\festus.patrick\\.nuget\\packages\\",
+        "outputPath": "C:\\Projects\\Test\\FBNTest\\CPT\\Src\\Helper Layer\\Helper\\CPT.Helper\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\festus.patrick\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Users\\festus.patrick\\Documents\\Visual Studio 2019\\Telerik": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "FluentValidation": {
+              "target": "Package",
+              "version": "[11.2.0, )"
+            },
+            "FluentValidation.AspNetCore": {
+              "target": "Package",
+              "version": "[11.2.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.408\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Projects\\Test\\FBNTest\\CPT\\Src\\Infrastructure Layer\\Infrastructure\\CPT.Infrastructure\\CPT.Infrastructure.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Projects\\Test\\FBNTest\\CPT\\Src\\Infrastructure Layer\\Infrastructure\\CPT.Infrastructure\\CPT.Infrastructure.csproj",
+        "projectName": "CPT.Infrastructure",
+        "projectPath": "C:\\Projects\\Test\\FBNTest\\CPT\\Src\\Infrastructure Layer\\Infrastructure\\CPT.Infrastructure\\CPT.Infrastructure.csproj",
+        "packagesPath": "C:\\Users\\festus.patrick\\.nuget\\packages\\",
+        "outputPath": "C:\\Projects\\Test\\FBNTest\\CPT\\Src\\Infrastructure Layer\\Infrastructure\\CPT.Infrastructure\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\festus.patrick\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Users\\festus.patrick\\Documents\\Visual Studio 2019\\Telerik": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "C:\\Projects\\Test\\FBNTest\\CPT\\Src\\Domain Layer\\Domain\\CPT.Domain\\CPT.Domain.csproj": {
+                "projectPath": "C:\\Projects\\Test\\FBNTest\\CPT\\Src\\Domain Layer\\Domain\\CPT.Domain\\CPT.Domain.csproj"
+              },
+              "C:\\Projects\\Test\\FBNTest\\CPT\\Src\\Helper Layer\\Helper\\CPT.Helper\\CPT.Helper.csproj": {
+                "projectPath": "C:\\Projects\\Test\\FBNTest\\CPT\\Src\\Helper Layer\\Helper\\CPT.Helper\\CPT.Helper.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "AutoMapper.Extensions.Microsoft.DependencyInjection": {
+              "target": "Package",
+              "version": "[11.0.0, )"
+            },
+            "Microsoft.AspNetCore.Authentication.JwtBearer": {
+              "target": "Package",
+              "version": "[3.1.26, )"
+            },
+            "System.IdentityModel.Tokens.Jwt": {
+              "target": "Package",
+              "version": "[6.22.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.408\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Projects\\Test\\FBNTest\\CPT\\Src\\Presentation Layer\\API\\CPT.API\\CPT.API.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Projects\\Test\\FBNTest\\CPT\\Src\\Presentation Layer\\API\\CPT.API\\CPT.API.csproj",
+        "projectName": "CPT.API",
+        "projectPath": "C:\\Projects\\Test\\FBNTest\\CPT\\Src\\Presentation Layer\\API\\CPT.API\\CPT.API.csproj",
+        "packagesPath": "C:\\Users\\festus.patrick\\.nuget\\packages\\",
+        "outputPath": "C:\\Projects\\Test\\FBNTest\\CPT\\Src\\Presentation Layer\\API\\CPT.API\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\festus.patrick\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Users\\festus.patrick\\Documents\\Visual Studio 2019\\Telerik": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "C:\\Projects\\Test\\FBNTest\\CPT\\Src\\Business Layer\\Core\\CPT.ApplicationCore\\CPT.ApplicationCore.csproj": {
+                "projectPath": "C:\\Projects\\Test\\FBNTest\\CPT\\Src\\Business Layer\\Core\\CPT.ApplicationCore\\CPT.ApplicationCore.csproj"
+              },
+              "C:\\Projects\\Test\\FBNTest\\CPT\\Src\\Data Layer\\Persistence\\CPT.Persistence\\CPT.Persistence.csproj": {
+                "projectPath": "C:\\Projects\\Test\\FBNTest\\CPT\\Src\\Data Layer\\Persistence\\CPT.Persistence\\CPT.Persistence.csproj"
+              },
+              "C:\\Projects\\Test\\FBNTest\\CPT\\Src\\Domain Layer\\Domain\\CPT.Domain\\CPT.Domain.csproj": {
+                "projectPath": "C:\\Projects\\Test\\FBNTest\\CPT\\Src\\Domain Layer\\Domain\\CPT.Domain\\CPT.Domain.csproj"
+              },
+              "C:\\Projects\\Test\\FBNTest\\CPT\\Src\\Helper Layer\\Helper\\CPT.Helper\\CPT.Helper.csproj": {
+                "projectPath": "C:\\Projects\\Test\\FBNTest\\CPT\\Src\\Helper Layer\\Helper\\CPT.Helper\\CPT.Helper.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "AutoMapper.Extensions.Microsoft.DependencyInjection": {
+              "target": "Package",
+              "version": "[11.0.0, )"
+            },
+            "FluentValidation": {
+              "target": "Package",
+              "version": "[11.2.0, )"
+            },
+            "FluentValidation.AspNetCore": {
+              "target": "Package",
+              "version": "[11.2.1, )"
+            },
+            "MediatR.Extensions.Microsoft.DependencyInjection": {
+              "target": "Package",
+              "version": "[10.0.1, )"
+            },
+            "Microsoft.AspNetCore.Authentication.JwtBearer": {
+              "target": "Package",
+              "version": "[3.1.26, )"
+            },
+            "Microsoft.AspNetCore.Identity.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[5.0.17, )"
+            },
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[5.0.17, )"
+            },
+            "Microsoft.EntityFrameworkCore.Relational": {
+              "target": "Package",
+              "version": "[5.0.17, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[5.0.17, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[5.0.17, )"
+            },
+            "SimpleSoft.Mediator": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[6.3.1, )"
+            },
+            "Swashbuckle.AspNetCore.Filters": {
+              "target": "Package",
+              "version": "[7.0.5, )"
+            },
+            "System.IdentityModel.Tokens.Jwt": {
+              "target": "Package",
+              "version": "[6.22.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.NETCore.App.Host.win-x64",
+              "version": "[3.1.25, 3.1.25]"
+            }
+          ],
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.408\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

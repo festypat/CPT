@@ -1,0 +1,13 @@
+C:\Projects\Test\CustomerPaymentTransaction\CPT\Src\Domain Layer\Domain\CPT.Domain\bin\Debug\netcoreapp3.1\CPT.Domain.deps.json
+C:\Projects\Test\CustomerPaymentTransaction\CPT\Src\Domain Layer\Domain\CPT.Domain\bin\Debug\netcoreapp3.1\CPT.Domain.runtimeconfig.json
+C:\Projects\Test\CustomerPaymentTransaction\CPT\Src\Domain Layer\Domain\CPT.Domain\bin\Debug\netcoreapp3.1\CPT.Domain.runtimeconfig.dev.json
+C:\Projects\Test\CustomerPaymentTransaction\CPT\Src\Domain Layer\Domain\CPT.Domain\bin\Debug\netcoreapp3.1\CPT.Domain.dll
+C:\Projects\Test\CustomerPaymentTransaction\CPT\Src\Domain Layer\Domain\CPT.Domain\bin\Debug\netcoreapp3.1\CPT.Domain.pdb
+C:\Projects\Test\CustomerPaymentTransaction\CPT\Src\Domain Layer\Domain\CPT.Domain\obj\Debug\netcoreapp3.1\CPT.Domain.csproj.AssemblyReference.cache
+C:\Projects\Test\CustomerPaymentTransaction\CPT\Src\Domain Layer\Domain\CPT.Domain\obj\Debug\netcoreapp3.1\CPT.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\Test\CustomerPaymentTransaction\CPT\Src\Domain Layer\Domain\CPT.Domain\obj\Debug\netcoreapp3.1\CPT.Domain.AssemblyInfoInputs.cache
+C:\Projects\Test\CustomerPaymentTransaction\CPT\Src\Domain Layer\Domain\CPT.Domain\obj\Debug\netcoreapp3.1\CPT.Domain.AssemblyInfo.cs
+C:\Projects\Test\CustomerPaymentTransaction\CPT\Src\Domain Layer\Domain\CPT.Domain\obj\Debug\netcoreapp3.1\CPT.Domain.csproj.CoreCompileInputs.cache
+C:\Projects\Test\CustomerPaymentTransaction\CPT\Src\Domain Layer\Domain\CPT.Domain\obj\Debug\netcoreapp3.1\CPT.Domain.dll
+C:\Projects\Test\CustomerPaymentTransaction\CPT\Src\Domain Layer\Domain\CPT.Domain\obj\Debug\netcoreapp3.1\CPT.Domain.pdb
+C:\Projects\Test\CustomerPaymentTransaction\CPT\Src\Domain Layer\Domain\CPT.Domain\obj\Debug\netcoreapp3.1\CPT.Domain.genruntimeconfig.cache

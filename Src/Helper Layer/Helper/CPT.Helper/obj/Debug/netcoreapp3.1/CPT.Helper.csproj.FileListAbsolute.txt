@@ -1,0 +1,10 @@
+C:\Projects\Test\CustomerPaymentTransaction\CPT\Src\Helper Layer\Helper\CPT.Helper\bin\Debug\netcoreapp3.1\CPT.Helper.deps.json
+C:\Projects\Test\CustomerPaymentTransaction\CPT\Src\Helper Layer\Helper\CPT.Helper\bin\Debug\netcoreapp3.1\CPT.Helper.dll
+C:\Projects\Test\CustomerPaymentTransaction\CPT\Src\Helper Layer\Helper\CPT.Helper\bin\Debug\netcoreapp3.1\CPT.Helper.pdb
+C:\Projects\Test\CustomerPaymentTransaction\CPT\Src\Helper Layer\Helper\CPT.Helper\obj\Debug\netcoreapp3.1\CPT.Helper.csproj.AssemblyReference.cache
+C:\Projects\Test\CustomerPaymentTransaction\CPT\Src\Helper Layer\Helper\CPT.Helper\obj\Debug\netcoreapp3.1\CPT.Helper.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\Test\CustomerPaymentTransaction\CPT\Src\Helper Layer\Helper\CPT.Helper\obj\Debug\netcoreapp3.1\CPT.Helper.AssemblyInfoInputs.cache
+C:\Projects\Test\CustomerPaymentTransaction\CPT\Src\Helper Layer\Helper\CPT.Helper\obj\Debug\netcoreapp3.1\CPT.Helper.AssemblyInfo.cs
+C:\Projects\Test\CustomerPaymentTransaction\CPT\Src\Helper Layer\Helper\CPT.Helper\obj\Debug\netcoreapp3.1\CPT.Helper.csproj.CoreCompileInputs.cache
+C:\Projects\Test\CustomerPaymentTransaction\CPT\Src\Helper Layer\Helper\CPT.Helper\obj\Debug\netcoreapp3.1\CPT.Helper.dll
+C:\Projects\Test\CustomerPaymentTransaction\CPT\Src\Helper Layer\Helper\CPT.Helper\obj\Debug\netcoreapp3.1\CPT.Helper.pdb

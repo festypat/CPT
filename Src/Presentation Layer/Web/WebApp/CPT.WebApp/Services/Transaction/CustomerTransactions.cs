@@ -92,22 +92,14 @@ namespace CPT.WebApp.Services.Transaction
 
                 return new List<Datum>
                 {
-                    //data = new TransactionSummaryResponseDto
-                    //{
-                    //    TotalTransaction = 0,
-                    //    TotalAmount = 0
-                    //}
+                    
                 };
             }
             catch (Exception ex)
             {
                 return new List<Datum>
                 {
-                    //data = new TransactionSummaryResponseDto
-                    //{
-                    //    TotalTransaction = 0,
-                    //    TotalAmount = 0
-                    //}
+                    
                 };
             }
         }
